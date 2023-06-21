@@ -1,6 +1,6 @@
 # Github Collaboration Demo
 
-This is a smell demo for my students on how to use Git and Github to collaborate on software projects together.
+This is a small demo for my students on how to use Git and Github to collaborate on software projects together.
 
 # How to Collaborate
 
