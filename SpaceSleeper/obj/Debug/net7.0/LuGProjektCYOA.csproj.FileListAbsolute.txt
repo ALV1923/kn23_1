@@ -1,0 +1,60 @@
+F:\source\repos\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.exe
+F:\source\repos\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.deps.json
+F:\source\repos\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.runtimeconfig.json
+F:\source\repos\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.dll
+F:\source\repos\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.pdb
+F:\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.csproj.AssemblyReference.cache
+F:\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.AssemblyInfoInputs.cache
+F:\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.AssemblyInfo.cs
+F:\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.csproj.CoreCompileInputs.cache
+F:\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.dll
+F:\source\repos\LuGProjektCYOA\obj\Debug\net7.0\refint\LuGProjektCYOA.dll
+F:\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.pdb
+F:\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.genruntimeconfig.cache
+F:\source\repos\LuGProjektCYOA\obj\Debug\net7.0\ref\LuGProjektCYOA.dll
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.exe
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.deps.json
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.runtimeconfig.json
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.dll
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.pdb
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.csproj.AssemblyReference.cache
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.AssemblyInfoInputs.cache
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.AssemblyInfo.cs
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.csproj.CoreCompileInputs.cache
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.dll
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\obj\Debug\net7.0\refint\LuGProjektCYOA.dll
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.pdb
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.genruntimeconfig.cache
+C:\Users\AndreasLinh-Voigt\source\repos\LuGProjektCYOA\obj\Debug\net7.0\ref\LuGProjektCYOA.dll
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.exe
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.deps.json
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.runtimeconfig.json
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.dll
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.pdb
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.csproj.AssemblyReference.cache
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.AssemblyInfoInputs.cache
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.AssemblyInfo.cs
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.csproj.CoreCompileInputs.cache
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.dll
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\obj\Debug\net7.0\refint\LuGProjektCYOA.dll
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.pdb
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.genruntimeconfig.cache
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\LuGProjektCYOA\obj\Debug\net7.0\ref\LuGProjektCYOA.dll
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.exe
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.deps.json
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.runtimeconfig.json
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.dll
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\bin\Debug\net7.0\LuGProjektCYOA.pdb
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.csproj.AssemblyReference.cache
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.AssemblyInfoInputs.cache
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.AssemblyInfo.cs
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.csproj.CoreCompileInputs.cache
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.dll
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\obj\Debug\net7.0\refint\LuGProjektCYOA.dll
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.pdb
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\obj\Debug\net7.0\LuGProjektCYOA.genruntimeconfig.cache
+C:\Users\AndreasLinh-Voigt\OneDrive - LG-Academy\Desktop\LuGProjekt\AndreasLinhVoigtProjekt\uGProjektCYOA\obj\Debug\net7.0\ref\LuGProjektCYOA.dll
