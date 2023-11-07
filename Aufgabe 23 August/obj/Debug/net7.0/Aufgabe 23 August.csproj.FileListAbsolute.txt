@@ -1,0 +1,15 @@
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\bin\Debug\net7.0\Aufgabe 23 August.exe
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\bin\Debug\net7.0\Aufgabe 23 August.deps.json
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\bin\Debug\net7.0\Aufgabe 23 August.runtimeconfig.json
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\bin\Debug\net7.0\Aufgabe 23 August.dll
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\bin\Debug\net7.0\Aufgabe 23 August.pdb
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\obj\Debug\net7.0\Aufgabe 23 August.csproj.AssemblyReference.cache
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\obj\Debug\net7.0\Aufgabe 23 August.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\obj\Debug\net7.0\Aufgabe 23 August.AssemblyInfoInputs.cache
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\obj\Debug\net7.0\Aufgabe 23 August.AssemblyInfo.cs
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\obj\Debug\net7.0\Aufgabe 23 August.csproj.CoreCompileInputs.cache
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\obj\Debug\net7.0\Aufgabe 23 August.dll
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\obj\Debug\net7.0\refint\Aufgabe 23 August.dll
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\obj\Debug\net7.0\Aufgabe 23 August.pdb
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\obj\Debug\net7.0\Aufgabe 23 August.genruntimeconfig.cache
+C:\Users\AndreasLinh-Voigt\source\repos\Aufgabe 23 August\obj\Debug\net7.0\ref\Aufgabe 23 August.dll
